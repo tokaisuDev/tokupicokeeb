@@ -39,6 +39,7 @@
 
   (setup
     (pad_to_mask_clearance 0)
+    (grid_origin -18.25625 17.4625)
     (pcbplotparams
       (layerselection 0x00010fc_ffffffff)
       (plot_on_all_layers_selection 0x0000000_00000000)
@@ -178,7 +179,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 018b8d1d-b725-42c2-8b85-7bf7e1855edf)
-    (at 144.505 45.435)
+    (at 355.08125 147.36875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -250,7 +251,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 043a5803-4282-49f4-bc61-6b546144b625)
-    (at 173.255 32.035)
+    (at 383.83125 133.96875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -322,7 +323,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 0473d744-ad14-4a8d-a956-b01b683146ac)
-    (at 150.255 25.335)
+    (at 360.83125 127.26875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -394,7 +395,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 0555f25c-d2ce-4c23-a1d8-9850d619fc18)
-    (at 144.505 21.985)
+    (at 355.08125 123.91875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -466,7 +467,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 0889cc1e-182d-4819-9388-29fd2a2351fb)
-    (at 50.73 148.26)
+    (at 220.03125 119.6125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/7b9dda0b-e255-450e-949c-c6d97807d9f4")
@@ -518,7 +519,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 0b83288b-fab8-472d-8789-4c744a4f0e65)
-    (at 150.255 21.985)
+    (at 360.83125 123.91875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -590,7 +591,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 15ec720f-dc2e-4b07-bd1e-c0add6be2a33)
-    (at 167.505 32.035)
+    (at 378.08125 133.96875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -662,7 +663,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 16268794-51e7-486f-b13a-a3fa31f3ebe4)
-    (at 50.73 27.06)
+    (at 220.03125 -1.5875)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/dc5539a7-9a2d-4349-8cf3-2a7628e184e8")
@@ -714,7 +715,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 17d878a5-75af-4158-be4f-a54302316659)
-    (at 91.13 128.06)
+    (at 260.43125 99.4125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/62de8f33-072c-44e9-97e7-cd7d879a567f")
@@ -766,7 +767,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 189b7247-2d7e-4ceb-8330-a12b9fdeb868)
-    (at 70.93 87.66)
+    (at 240.23125 59.0125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/2a9999f3-3719-4cb7-a0d9-53c983c690c3")
@@ -818,7 +819,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 18a7ee84-ec33-446e-b5f7-b06a76cf0ab5)
-    (at 91.13 148.26)
+    (at 260.43125 119.6125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/b0957853-7e1c-4bd4-98b3-6ad0c16b2d3d")
@@ -870,7 +871,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1.75U-NoLED" (layer "F.Cu")
     (tstamp 18e62e62-6d79-457b-b614-458309dee1ab)
-    (at 158.87375 63.91)
+    (at 369.45 165.84375)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/3b8c926f-463e-4edd-8940-5e0c50d0f953")
@@ -922,7 +923,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 19826b33-ec50-4ed2-9e54-34868a5434d9)
-    (at 150.255 35.385)
+    (at 360.83125 137.31875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -994,7 +995,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 1e3246ee-78de-49bd-98c1-76da06618b12)
-    (at 144.505 32.035)
+    (at 355.08125 133.96875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -1066,7 +1067,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 1e65a724-190b-4d07-94d7-138119b6ead4)
-    (at 111.33 148.26)
+    (at 280.63125 119.6125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/7cf01579-d4fd-4972-b0ba-1a7dcf7f8a70")
@@ -1118,7 +1119,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 1ff17a90-37f0-42b5-bb47-b65db3057f4c)
-    (at 144.505 35.385)
+    (at 355.08125 137.31875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -1190,7 +1191,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 202a5d98-b9f4-4640-8971-bbec079ebba2)
-    (at 70.93 47.26)
+    (at 240.23125 18.6125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/e51b4b47-a4d6-4b57-9aca-2179c4e13b89")
@@ -1242,7 +1243,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 2304928f-6a6d-496a-9812-a925579d14f5)
-    (at 156.005 18.635)
+    (at 366.58125 120.56875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -1314,7 +1315,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 233081b8-11cb-4ff3-8d3c-d722071a2b83)
-    (at 50.73 47.26)
+    (at 220.03125 18.6125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/02ea2fc0-b743-4088-bc51-ed33cdf03568")
@@ -1366,7 +1367,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 23785788-1c43-4a39-b802-cfeb8e53268a)
-    (at 161.755 52.135)
+    (at 372.33125 154.06875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -1438,7 +1439,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 270bf425-2dde-4ddb-82c8-8e8514f7ba57)
-    (at 50.73 107.86)
+    (at 220.03125 79.2125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/8660b22a-f5c4-4450-bca1-e5294c02f3d8")
@@ -1490,7 +1491,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 2a0baf05-711d-40c8-970a-3805d08e8207)
-    (at 161.755 21.985)
+    (at 372.33125 123.91875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -1562,7 +1563,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 2c1280b4-ed9d-4519-b912-26b4af107ef1)
-    (at 144.505 42.085)
+    (at 355.08125 144.01875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -1690,7 +1691,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 2d36fc18-e8a5-4055-b994-383323b67928)
-    (at 144.505 48.785)
+    (at 355.08125 150.71875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -1762,7 +1763,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 2dd23206-1118-44da-a358-fe70a5f8f56c)
-    (at 131.53 128.06)
+    (at 300.83125 99.4125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/0bdc9b60-528a-4f8b-ba79-6331b7543f33")
@@ -1814,7 +1815,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 2e76029d-7fc6-478d-b8d4-3111d3ee0a4e)
-    (at 150.255 32.035)
+    (at 360.83125 133.96875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -1886,7 +1887,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 30804c8c-d1c6-4197-ac7d-cf742c0962f7)
-    (at 173.255 18.635)
+    (at 383.83125 120.56875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -1958,7 +1959,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 3173cc13-e74c-4228-b69b-d8865c0074c0)
-    (at 70.93 107.86)
+    (at 240.23125 79.2125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/6638f2b7-a63b-4359-b19a-9cabf877f2bc")
@@ -2010,7 +2011,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 31e90b56-f2a2-4174-af2b-8e339a978fdc)
-    (at 50.73 67.46)
+    (at 220.03125 38.8125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/3622c047-fd70-4fbb-af73-3ad2f1d61572")
@@ -2062,7 +2063,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 342d5758-7234-460b-bcba-8d3f59776944)
-    (at 173.255 21.985)
+    (at 383.83125 123.91875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -2264,7 +2265,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 3b8257fb-411e-43f9-8cba-224fcfabfac4)
-    (at 91.13 27.06)
+    (at 260.43125 -1.5875)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/89e78fca-a501-4c37-8ac0-587677341a21")
@@ -2316,7 +2317,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 3f65b9dc-4ac8-4eed-aab8-e3d4435fbf05)
-    (at 111.33 67.46)
+    (at 280.63125 38.8125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/ea437516-8100-4f02-87ba-bd8c5e8bd5b1")
@@ -2368,7 +2369,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 3f88b487-693e-4d0d-bff7-9c6bb2e6f662)
-    (at 161.755 45.435)
+    (at 372.33125 147.36875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -2440,7 +2441,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 3fad9d09-3a5a-4f28-bdfd-2fdfb7aa45cc)
-    (at 156.005 42.085)
+    (at 366.58125 144.01875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -2568,7 +2569,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 429094fe-77bf-4501-9777-6633dcf70251)
-    (at 161.755 25.335)
+    (at 372.33125 127.26875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -2640,7 +2641,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 45d1d40d-77ce-4476-89b1-acd8dccef01c)
-    (at 10.33 27.06)
+    (at -28.8925 46.0375)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/832f6331-61c2-4724-9175-73218817482e")
@@ -2692,7 +2693,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1.5U-NoLED" (layer "F.Cu")
     (tstamp 461a3786-ef7e-48d7-a68c-5825310cb891)
-    (at 156.4925 84.11)
+    (at 367.06875 186.04375)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/56f3ab63-1400-4ae8-ba4c-fe64031d0b73")
@@ -2744,7 +2745,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 46208d84-afb0-45a0-a79a-07ff68cc839f)
-    (at 30.53 27.06)
+    (at 150.01875 26.9875)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/48f8a4c3-044f-4cc5-897f-3408973c9e25")
@@ -2796,7 +2797,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 47f26075-d20f-4f5d-ac62-b221daebc8a4)
-    (at 10.33 128.06)
+    (at 48.41875 26.9875)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/11fd46ed-3021-4f6a-8d5e-8eb9a0669bac")
@@ -2848,7 +2849,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 48d129f4-0cfa-41e6-b0cb-5b053784edff)
-    (at 10.33 107.86)
+    (at 29.36875 26.9875)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/debca9a8-152f-4d6e-8727-bd50f2c8eeec")
@@ -2900,7 +2901,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 49406295-63e2-4b18-a492-7e25ef131343)
-    (at 10.33 168.46)
+    (at 86.51875 26.9875)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/57963dce-e376-46ff-b0e8-6e0ba06e1027")
@@ -2952,7 +2953,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 49adc88e-c757-4b40-a498-74951062ee3c)
-    (at 150.255 42.085)
+    (at 360.83125 144.01875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -3024,7 +3025,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 4a1abdff-0f14-4325-a5ce-16878bc95c35)
-    (at 173.255 28.685)
+    (at 383.83125 130.61875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -3096,7 +3097,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 4c2a3ade-dc8b-485e-934d-e17f76116e60)
-    (at 30.53 168.46)
+    (at 199.83125 139.8125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/44dc9786-5813-4c0e-832d-40045448850a")
@@ -3148,7 +3149,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 522f4a12-d0da-4ec9-afa4-2fac98fbc5ad)
-    (at 91.13 168.46)
+    (at 260.43125 139.8125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/05eb4295-11f8-4f89-bc4d-a8d6eaa7ef24")
@@ -3200,7 +3201,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 54ed8468-a536-4e58-a54f-92b27be9b4ae)
-    (at 161.755 18.635)
+    (at 372.33125 120.56875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -3272,7 +3273,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 581cafbc-aa4a-45fd-b2f1-b6840680b2a0)
-    (at 167.505 28.685)
+    (at 378.08125 130.61875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -3344,7 +3345,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 5f8a7ae0-4e93-4570-b0da-59a8f9daa86c)
-    (at 156.005 45.435)
+    (at 366.58125 147.36875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -3416,7 +3417,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 615264bc-43bb-456e-9149-c0a9e16e2d59)
-    (at 167.505 25.335)
+    (at 378.08125 127.26875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -3542,7 +3543,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 6401682f-d13a-4b4b-addb-2468f2cb633a)
-    (at 156.005 35.385)
+    (at 366.58125 137.31875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -3614,7 +3615,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 66961288-7767-49e6-9956-f2cb9c2d29de)
-    (at 111.33 47.26)
+    (at 280.63125 18.6125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/9a1882b6-dc2f-4dd3-a5d3-de15fef4eb57")
@@ -3666,7 +3667,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 66c60bbb-b3f9-4d03-beae-4910d9d4ce15)
-    (at 150.255 28.685)
+    (at 360.83125 130.61875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -3738,7 +3739,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 674ea9da-8dd2-4dc1-945a-7eb935f6562f)
-    (at 161.755 35.385)
+    (at 372.33125 137.31875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -3810,7 +3811,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 6cecc5f1-480e-49e1-9a6c-7632ddf45a4c)
-    (at 150.255 48.785)
+    (at 360.83125 150.71875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -3882,7 +3883,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 6d7f66a6-ecae-407d-ba1e-ff3ff576ed2e)
-    (at 50.73 168.46)
+    (at 220.03125 139.8125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/414a3633-44a9-4f13-ba5d-6a613d55bb68")
@@ -3934,7 +3935,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 6f0d17b4-bbf7-426e-aca7-664dc91a2098)
-    (at 150.255 38.735)
+    (at 360.83125 140.66875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -4006,7 +4007,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 6f8f88ab-3514-410c-a8da-063a0d300bf2)
-    (at 111.33 87.66)
+    (at 280.63125 59.0125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/6683339d-a071-4ab0-8928-2d4d049944f9")
@@ -4058,7 +4059,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 72e5a52d-c898-4bfd-b6f8-1b2ed73d614a)
-    (at 70.93 168.46)
+    (at 240.23125 139.8125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/dc7a5096-e317-4e4a-845b-b86db17e423f")
@@ -4110,7 +4111,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 72ee7736-12d3-4ac6-b8d1-2b3138c171a4)
-    (at 111.33 107.86)
+    (at 280.63125 79.2125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/80284615-3eec-4707-be73-dcc5735d5a5a")
@@ -4162,7 +4163,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 761455cf-c0c2-4469-a958-730222293f42)
-    (at 131.53 107.86)
+    (at 300.83125 79.2125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/0080d256-86b5-4de9-968a-e6adfb4eff2f")
@@ -4270,7 +4271,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED" (layer "F.Cu")
     (tstamp 7b088756-23f2-48b6-9aa7-2d3b70cd6f27)
-    (at 154.11125 104.31)
+    (at 364.6875 206.24375)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/d93480f5-13a9-42de-b049-98a07ef28f5c")
@@ -4322,7 +4323,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 80d1c8e3-3b88-4836-8daf-373c9b84f2d3)
-    (at 30.53 47.26)
+    (at 199.83125 18.6125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/88a3b444-292a-46a1-b161-fc572f04cd5c")
@@ -4374,7 +4375,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 830678cf-930a-4818-98ad-5f36850abeac)
-    (at 70.93 27.06)
+    (at 240.23125 -1.5875)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/62979d51-714e-413f-9b88-189532aa2172")
@@ -4426,7 +4427,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 8745591f-e274-4073-94cb-f10e359f727a)
-    (at 30.53 67.46)
+    (at 199.83125 38.8125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/82f32690-3d15-4e98-a31e-3a4d0ae45e1e")
@@ -4478,7 +4479,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 881fc527-f60d-420e-86cc-aabbda72a88a)
-    (at 161.755 32.035)
+    (at 372.33125 133.96875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -4550,7 +4551,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 8c0f99f4-e3b1-4c33-b108-2efe36239cdb)
-    (at 173.255 38.735)
+    (at 383.83125 140.66875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -4622,7 +4623,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 8da45451-b342-4b5e-934c-0638c906b84c)
-    (at 91.13 67.46)
+    (at 260.43125 38.8125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/b0af6a53-0046-4cf7-a2ed-7b155b4cdc57")
@@ -4674,7 +4675,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 8ef7a597-24f5-4bcd-8c80-8f8e01603200)
-    (at 30.53 128.06)
+    (at 199.83125 99.4125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/41ebe209-fcb4-4655-aafa-15a8cbf4387a")
@@ -4778,7 +4779,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 92a18891-04d9-4e92-8679-1bfea63736f1)
-    (at 91.13 107.86)
+    (at 260.43125 79.2125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/c877e12c-5cc7-4c1c-81c0-6b600b9d742e")
@@ -4830,7 +4831,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 972fc047-f2a6-4042-9994-465cbc99b06b)
-    (at 70.93 67.46)
+    (at 240.23125 38.8125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/a36d185b-f744-43c0-b2bc-b77a01e8bfd6")
@@ -4882,7 +4883,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 995d0543-34e5-4adf-b502-1f3aa46764f1)
-    (at 91.13 47.26)
+    (at 260.43125 18.6125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/ca904b00-ceac-492d-b9cc-216f80233c8f")
@@ -4990,7 +4991,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 99b87dd7-2133-4d83-8651-d4ef88b7b06d)
-    (at 131.53 27.06)
+    (at 300.83125 -1.5875)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/99ab024f-d27d-4c4c-b233-7b1f662074a5")
@@ -5042,7 +5043,7 @@
 
   (footprint "pico_w:RPi_PicoW_SMD_TH" (layer "F.Cu")
     (tstamp 99eefb7a-e807-4d1d-9555-369392c02c60)
-    (at 153.67 140.97)
+    (at 146.685 105.25125)
     (descr "Through hole straight pin header, 2x20, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x20 2.54mm double row")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -5561,7 +5562,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp 9c7a7dc6-2abc-4574-9f25-2cee65a9081e)
-    (at 167.505 42.085)
+    (at 378.08125 144.01875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -5633,7 +5634,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 9deaafe7-e83a-490a-8467-c75ddf173d55)
-    (at 111.33 128.06)
+    (at 280.63125 99.4125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/a22a8a43-ca31-4590-be64-7dd480db63d3")
@@ -5685,7 +5686,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp 9f467dbe-b8d7-4b23-9809-8bf0ee9ad517)
-    (at 111.33 168.46)
+    (at 280.63125 139.8125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/9ad7e999-9a62-4a2a-8b0e-b214dcb2d1e1")
@@ -5737,7 +5738,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp a03f8d21-4601-4a7d-90ff-8c7e6aacc1ff)
-    (at 70.93 128.06)
+    (at 240.23125 99.4125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/71ce6a4f-bd77-4c7e-9392-54c8cb2319e3")
@@ -5789,7 +5790,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp a4232c9c-4f96-4f9b-8844-62c6d79d4d8a)
-    (at 150.255 45.435)
+    (at 360.83125 147.36875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -5861,7 +5862,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp a507303e-3e29-48eb-9ef4-458c3fccfb0a)
-    (at 156.005 32.035)
+    (at 366.58125 133.96875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -5933,7 +5934,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp a713625f-4be9-4ed0-a11d-442210a72c89)
-    (at 70.93 148.26)
+    (at 240.23125 119.6125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/ee6d7879-1e57-4e7e-994c-dedaaec114dd")
@@ -5985,7 +5986,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp a81ce7df-18f9-403a-83e0-a4b4f1bee303)
-    (at 156.005 28.685)
+    (at 366.58125 130.61875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -6057,7 +6058,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp abe952b0-5345-456f-8c87-b618191d69bd)
-    (at 156.005 38.735)
+    (at 366.58125 140.66875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -6129,7 +6130,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp ae3b4853-20f3-47ea-bd5a-5d6f1a283014)
-    (at 161.755 42.085)
+    (at 372.33125 144.01875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -6201,7 +6202,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp afe7e51e-d0b9-499b-8fee-88998bc6a38a)
-    (at 30.53 107.86)
+    (at 199.83125 79.2125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/c3102c04-2f7f-4165-82ec-f66ea18a4e93")
@@ -6253,7 +6254,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp b01a7bf9-1a46-4337-b80b-aea624425161)
-    (at 10.33 87.66)
+    (at 10.31875 26.9875)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/08d5e459-9bc3-4fd9-a743-822582b46a83")
@@ -6305,7 +6306,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp b2375dca-03db-4270-ae9c-dee7fb31323d)
-    (at 167.505 45.435)
+    (at 378.08125 147.36875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -6377,7 +6378,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp b382fb19-dba9-4991-be27-227d71d3c919)
-    (at 144.505 25.335)
+    (at 355.08125 127.26875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -6449,7 +6450,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp b38fe7e7-c405-4fda-a6c9-7c08ae2bb65f)
-    (at 150.255 18.635)
+    (at 360.83125 120.56875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -6521,7 +6522,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp b39aca7a-3378-4029-9b4c-b530c721c314)
-    (at 131.53 148.26)
+    (at 300.83125 119.6125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/e7452678-e24c-48ad-bbec-e3b14edbdb2e")
@@ -6573,7 +6574,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp b96babf5-8299-4bbf-9e3d-da06d207d2d2)
-    (at 144.505 38.735)
+    (at 355.08125 140.66875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -6645,7 +6646,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp bbf41fc3-45a2-4751-92a8-3f8cc1a02f2f)
-    (at 167.505 21.985)
+    (at 378.08125 123.91875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -6717,7 +6718,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp bf227643-c2b2-4e1e-a506-70e1263d5dde)
-    (at 161.755 48.785)
+    (at 372.33125 150.71875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -6789,7 +6790,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp bf7d6203-2448-41b7-88e7-1a7fc38199c5)
-    (at 30.53 87.66)
+    (at 199.83125 59.0125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/e8dc64dd-766b-4be9-b5f2-42cf0cd2c194")
@@ -6841,7 +6842,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp bfa65468-7189-4218-b92f-f0a42f9f7e89)
-    (at 131.53 87.66)
+    (at 300.83125 59.0125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/24936753-6dd8-498a-8ba0-10e293f223dc")
@@ -6893,7 +6894,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp c18b778b-c859-4782-ad64-893a9b5a8e31)
-    (at 50.73 128.06)
+    (at 220.03125 99.4125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/9d7ac814-42b5-476e-80ed-cea04ae6991b")
@@ -6945,7 +6946,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp c18ffdd6-3d11-4358-af07-c1d34aecd99c)
-    (at 173.255 25.335)
+    (at 383.83125 127.26875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -7017,7 +7018,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp c1f7b4bb-5194-4ee1-85a2-d23f0bebee03)
-    (at 167.505 18.635)
+    (at 378.08125 120.56875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -7089,7 +7090,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp c34d0b6c-faa4-4bc2-86d8-1aac8ab03b6d)
-    (at 156.005 25.335)
+    (at 366.58125 127.26875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -7161,7 +7162,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp c6588409-6d71-42c4-a6c9-aaecd6ea4eab)
-    (at 131.53 47.26)
+    (at 300.83125 18.6125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/4cf0f506-404c-47e5-bca6-370fb376acad")
@@ -7213,7 +7214,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp c82e8b6e-0657-4402-94e9-631bfc1c9b5f)
-    (at 167.505 35.385)
+    (at 378.08125 137.31875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -7285,7 +7286,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp c920e913-c270-4d0e-9515-cb2dcf8082a5)
-    (at 156.005 52.135)
+    (at 366.58125 154.06875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -7357,7 +7358,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp ca3823ed-ddb8-40f8-ba9f-a7d852076d68)
-    (at 156.005 48.785)
+    (at 366.58125 150.71875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -7429,7 +7430,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp cac370ab-dc18-42ba-ab9b-06159109b68c)
-    (at 173.255 42.085)
+    (at 383.83125 144.01875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -7501,7 +7502,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp cac706cd-5551-4764-8b4c-1f001208dd97)
-    (at 91.13 87.66)
+    (at 260.43125 59.0125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/443c4a0e-69ac-42ea-b1b1-a472f95e89ab")
@@ -7553,7 +7554,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp caf549ac-0b6e-4953-b6de-d85d1757e397)
-    (at 161.755 28.685)
+    (at 372.33125 130.61875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -7625,7 +7626,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp ccb4689b-068c-4a2c-b479-7fe485b87679)
-    (at 50.73 87.66)
+    (at 220.03125 59.0125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/1eaa3408-b883-46ea-8d36-d1379cc657a3")
@@ -7677,7 +7678,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp cdc8568a-9fd7-47d1-820b-aebd5b102b15)
-    (at 30.53 148.26)
+    (at 199.83125 119.6125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/4335f097-4311-4937-9c17-ff6d5389161e")
@@ -7729,7 +7730,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp cdd2222d-ad1f-455d-a2ee-888235c9ab20)
-    (at 173.255 35.385)
+    (at 383.83125 137.31875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -7801,7 +7802,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp cfa6efd2-c354-495d-8c33-01ecdbe53a62)
-    (at 144.505 18.635)
+    (at 355.08125 120.56875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -7873,7 +7874,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp d03a58f3-88cb-4609-9ff1-07ac20df2e5d)
-    (at 10.33 148.26)
+    (at 67.46875 26.9875)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/c60ec546-fa5f-4c13-8e8a-7d2ae4b06c16")
@@ -7925,7 +7926,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp d7ec2ebb-ecf7-4aa0-9750-26231aced1e2)
-    (at 167.505 48.785)
+    (at 378.08125 150.71875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -7997,7 +7998,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp d9ff3925-1338-4282-b1a9-182da0deefca)
-    (at 156.005 21.985)
+    (at 366.58125 123.91875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -8069,7 +8070,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp e47745fe-045c-4ca4-a9e3-eaff2cb47339)
-    (at 161.755 38.735)
+    (at 372.33125 140.66875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -8141,7 +8142,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp e511ce69-5d77-4c2b-987b-96432be20a68)
-    (at 144.505 52.135)
+    (at 355.08125 154.06875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -8213,7 +8214,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp f0adc68d-f378-47cc-8961-38a5cba6257e)
-    (at 10.33 47.26)
+    (at -8.73125 26.9875)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/1dc6aa5e-0acc-4cc5-8e0a-e9513ad86393")
@@ -8265,7 +8266,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp f5008ae4-454b-4329-ac16-93fea4dc052c)
-    (at 167.505 38.735)
+    (at 378.08125 140.66875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -8337,7 +8338,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp f5140a6f-a02e-4302-b0f8-bf3516e2dd85)
-    (at 167.505 52.135)
+    (at 378.08125 154.06875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -8409,7 +8410,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp fb976117-430f-4530-8984-2f6c1beedf55)
-    (at 144.505 28.685)
+    (at 355.08125 130.61875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
@@ -8481,7 +8482,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp fd739ae9-1af2-4642-996b-8590cfab9d48)
-    (at 131.53 67.46)
+    (at 300.83125 38.8125)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/daf6d031-ba9d-414f-8f5a-cf79254680d7")
@@ -8533,7 +8534,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tstamp fe2438a7-23d0-49e2-a352-4d6e359c18de)
-    (at 111.33 27.06)
+    (at 280.63125 -1.5875)
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
     (property "Sheetname" "")
     (path "/5bb7b903-f704-493f-b8ec-bc3c6f37928b")
@@ -8585,7 +8586,7 @@
 
   (footprint "random-keyboard-parts:D_SOD-123-Pretty" (layer "F.Cu")
     (tstamp ffb9c589-51cb-4274-9f4d-61410bbf7ff1)
-    (at 150.255 52.135)
+    (at 360.83125 154.06875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "tokypicokeeb.kicad_sch")
