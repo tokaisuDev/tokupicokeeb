@@ -565,6 +565,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   (junction (at 97.79 35.56) (diameter 0) (color 0 0 0 0)
     (uuid 0078c553-5f4f-4043-bc7b-fa6efe7dcddf)
   )
@@ -583,11 +584,15 @@
 =======
   (junction (at 31.75 161.29) (diameter 0) (color 0 0 0 0)
 >>>>>>> parent of 688ee8c (pcb stage 1)
+=======
+  (junction (at 31.75 161.29) (diameter 0) (color 0 0 0 0)
+>>>>>>> parent of 688ee8c (pcb stage 1)
     (uuid 0fb54369-5b31-4755-a97a-3909f112830f)
   )
   (junction (at 31.75 173.99) (diameter 0) (color 0 0 0 0)
     (uuid 1168b525-aac1-4d50-9e80-6df771d69e30)
   )
+<<<<<<< HEAD
 <<<<<<< HEAD
   (junction (at 162.56 63.5) (diameter 0) (color 0 0 0 0)
     (uuid 1221b919-7754-4d64-b54d-d79b6dcf2974)
@@ -659,59 +664,15 @@
     (uuid 52354915-649d-44e7-ac8a-99b95d86f407)
   )
   (junction (at 43.18 175.26) (diameter 0) (color 0 0 0 0)
+=======
+  (junction (at 31.75 168.91) (diameter 0) (color 0 0 0 0)
+>>>>>>> parent of 688ee8c (pcb stage 1)
     (uuid 529e100b-c24d-4ac1-b3fc-ec522504ad76)
   )
-  (junction (at 118.11 137.16) (diameter 0) (color 0 0 0 0)
-    (uuid 548fe146-f221-478f-9e65-dcc96090580f)
-  )
-  (junction (at 186.69 52.07) (diameter 0) (color 0 0 0 0)
-    (uuid 54c2a047-5201-4807-a448-cd49466136ac)
-  )
-  (junction (at 66.04 41.91) (diameter 0) (color 0 0 0 0)
-    (uuid 612aac97-6a05-4a72-ac39-8bf7eb539149)
-  )
-  (junction (at 114.3 105.41) (diameter 0) (color 0 0 0 0)
-    (uuid 61eb7ffc-e413-4b0c-9de8-8e85eb1ee0a8)
-  )
-  (junction (at 218.44 115.57) (diameter 0) (color 0 0 0 0)
-    (uuid 64dfe060-f2c0-4001-a348-e213174d8953)
-  )
-  (junction (at 227.33 41.91) (diameter 0) (color 0 0 0 0)
-    (uuid 651073e5-029f-4081-b931-6b4ecbfe3cc8)
-  )
-  (junction (at 114.3 83.82) (diameter 0) (color 0 0 0 0)
-    (uuid 67ed3b11-7f32-49d9-9d43-a9d90554f02a)
-  )
-  (junction (at 137.16 137.16) (diameter 0) (color 0 0 0 0)
-    (uuid 67ef7633-39fe-4480-b1ce-0874dec1d22f)
-  )
-  (junction (at 170.18 115.57) (diameter 0) (color 0 0 0 0)
-    (uuid 6bd675fd-468b-40e7-99aa-88d13288f2dd)
-  )
-  (junction (at 137.16 52.07) (diameter 0) (color 0 0 0 0)
-    (uuid 6d0dda54-0e53-42c0-96a3-0492d7f9d2be)
-  )
-  (junction (at 137.16 73.66) (diameter 0) (color 0 0 0 0)
-    (uuid 70a9b0c0-152c-4e19-a1dd-85b763ed77bf)
-  )
-  (junction (at 245.11 41.91) (diameter 0) (color 0 0 0 0)
-    (uuid 74c765e8-22b8-43b8-b0e8-596858577207)
-  )
-  (junction (at 195.58 63.5) (diameter 0) (color 0 0 0 0)
-    (uuid 75dd23b2-d28c-4696-ba4a-5d531a04921a)
-  )
-  (junction (at 40.64 93.98) (diameter 0) (color 0 0 0 0)
-    (uuid 761a114e-a7da-442c-b71e-65ddf6b361b1)
-  )
-  (junction (at 170.18 73.66) (diameter 0) (color 0 0 0 0)
-    (uuid 7b59681d-ef03-41d5-922f-ae00299184dd)
-  )
-  (junction (at 245.11 83.82) (diameter 0) (color 0 0 0 0)
-    (uuid 7c2460e4-e222-4641-bf1e-aa4291265225)
-  )
-  (junction (at 43.18 193.04) (diameter 0) (color 0 0 0 0)
+  (junction (at 31.75 186.69) (diameter 0) (color 0 0 0 0)
     (uuid 80299e0a-8b97-4dd1-a994-3a110160285d)
   )
+<<<<<<< HEAD
   (junction (at 105.41 93.98) (diameter 0) (color 0 0 0 0)
     (uuid 84206fcd-57f7-4c0a-ad4d-3e6991364969)
   )
@@ -785,6 +746,9 @@
   )
   (junction (at 31.75 148.59) (diameter 0) (color 0 0 0 0)
 >>>>>>> parent of 688ee8c (pcb stage 1)
+=======
+  (junction (at 31.75 148.59) (diameter 0) (color 0 0 0 0)
+>>>>>>> parent of 688ee8c (pcb stage 1)
     (uuid b5f19bd9-e9eb-4c8f-a11b-2241bfdde590)
   )
   (junction (at 73.66 171.45) (diameter 0) (color 0 0 0 0)
@@ -808,6 +772,7 @@
     (uuid 0e0a5ffe-9d0a-4237-9af4-a446d673fb5e)
   )
 <<<<<<< HEAD
+<<<<<<< HEAD
   (wire (pts (xy 137.16 137.16) (xy 153.67 137.16))
     (stroke (width 0) (type default))
     (uuid 0e21c64b-3c9e-4380-ad91-1340c2bfb507)
@@ -829,6 +794,8 @@
 >>>>>>> parent of 688ee8c (pcb stage 1)
 =======
 >>>>>>> parent of c892052 (duplex trigger)
+=======
+>>>>>>> parent of 688ee8c (pcb stage 1)
   (wire (pts (xy 73.66 88.9) (xy 77.47 88.9))
     (stroke (width 0) (type default))
     (uuid 14abc90a-128a-4ba8-9cc4-e61d1ce6db1d)
@@ -843,6 +810,7 @@
   )
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   (wire (pts (xy 114.3 34.29) (xy 114.3 41.91))
     (stroke (width 0) (type default))
@@ -854,6 +822,9 @@
     (uuid 1bd22898-b8f2-4f10-a642-caef1fa25a09)
   )
   (wire (pts (xy 25.4 154.94) (xy 43.18 154.94))
+=======
+  (wire (pts (xy 13.97 148.59) (xy 31.75 148.59))
+>>>>>>> parent of 688ee8c (pcb stage 1)
 =======
   (wire (pts (xy 13.97 148.59) (xy 31.75 148.59))
 >>>>>>> parent of 688ee8c (pcb stage 1)
@@ -885,6 +856,7 @@
     (uuid 26183865-aad4-41be-b127-330945f3c7e7)
   )
 <<<<<<< HEAD
+<<<<<<< HEAD
   (wire (pts (xy 153.67 93.98) (xy 170.18 93.98))
     (stroke (width 0) (type default))
     (uuid 26231ec1-2d4f-44f1-ba68-1940cf49a402)
@@ -913,6 +885,9 @@
 =======
   (wire (pts (xy 49.53 153.67) (xy 54.61 153.67))
 >>>>>>> parent of 688ee8c (pcb stage 1)
+=======
+  (wire (pts (xy 49.53 153.67) (xy 54.61 153.67))
+>>>>>>> parent of 688ee8c (pcb stage 1)
     (stroke (width 0) (type default))
     (uuid 2e14fed5-24eb-4eb8-bcaf-13379eefceb4)
   )
@@ -920,6 +895,7 @@
     (stroke (width 0) (type default))
     (uuid 334ec6d6-40cb-493d-a0f5-08c8745600a1)
   )
+<<<<<<< HEAD
 <<<<<<< HEAD
   (wire (pts (xy 162.56 41.91) (xy 162.56 63.5))
     (stroke (width 0) (type default))
@@ -943,16 +919,22 @@
   )
 =======
 >>>>>>> parent of 688ee8c (pcb stage 1)
+=======
+>>>>>>> parent of 688ee8c (pcb stage 1)
   (wire (pts (xy 153.67 110.49) (xy 157.48 110.49))
     (stroke (width 0) (type default))
     (uuid 3d79c2d9-afa8-4af4-b292-27f62a568dd2)
   )
+<<<<<<< HEAD
 <<<<<<< HEAD
   (wire (pts (xy 49.53 83.82) (xy 49.53 105.41))
     (stroke (width 0) (type default))
     (uuid 3ead5ed5-59cc-4913-9ebb-444311c7732d)
   )
   (wire (pts (xy 60.96 154.94) (xy 43.18 154.94))
+=======
+  (wire (pts (xy 49.53 148.59) (xy 31.75 148.59))
+>>>>>>> parent of 688ee8c (pcb stage 1)
 =======
   (wire (pts (xy 49.53 148.59) (xy 31.75 148.59))
 >>>>>>> parent of 688ee8c (pcb stage 1)
@@ -980,6 +962,7 @@
     (uuid 50f64f7c-b43a-4a0d-b747-6ab79e386c4f)
   )
 <<<<<<< HEAD
+<<<<<<< HEAD
   (wire (pts (xy 105.41 93.98) (xy 137.16 93.98))
     (stroke (width 0) (type default))
     (uuid 519ed29b-a5b8-4b43-9f5c-0200af3e112c)
@@ -1000,6 +983,9 @@
 =======
   (wire (pts (xy 53.34 168.91) (xy 53.34 156.21))
 >>>>>>> parent of 688ee8c (pcb stage 1)
+=======
+  (wire (pts (xy 53.34 168.91) (xy 53.34 156.21))
+>>>>>>> parent of 688ee8c (pcb stage 1)
     (stroke (width 0) (type default))
     (uuid 58d661b7-6849-49fd-97d6-8cd442244448)
   )
@@ -1007,6 +993,7 @@
     (stroke (width 0) (type default))
     (uuid 5bad6d64-35f4-4f9b-b248-5dadee30dbad)
   )
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   (wire (pts (xy 82.55 41.91) (xy 82.55 35.56))
@@ -1043,6 +1030,8 @@
     (stroke (width 0) (type default))
     (uuid 6392b20d-9b2c-4cff-bf64-6f1c95852037)
   )
+=======
+>>>>>>> parent of 688ee8c (pcb stage 1)
 =======
 >>>>>>> parent of 688ee8c (pcb stage 1)
   (wire (pts (xy 153.67 88.9) (xy 157.48 88.9))
@@ -1106,6 +1095,7 @@
     (uuid 811d1aec-5c4c-4879-9235-0303b0847484)
   )
 <<<<<<< HEAD
+<<<<<<< HEAD
   (wire (pts (xy 227.33 83.82) (xy 227.33 105.41))
     (stroke (width 0) (type default))
     (uuid 8122c230-48c1-4a93-8ea6-471734d95545)
@@ -1127,6 +1117,8 @@
 >>>>>>> parent of 688ee8c (pcb stage 1)
 =======
 >>>>>>> parent of c892052 (duplex trigger)
+=======
+>>>>>>> parent of 688ee8c (pcb stage 1)
   (wire (pts (xy 153.67 68.58) (xy 157.48 68.58))
     (stroke (width 0) (type default))
     (uuid 82fe4457-5527-4074-b69d-c7bc344a8f43)
@@ -1212,6 +1204,7 @@
     (uuid b2798754-54aa-4e5f-b7a1-ba0b4051bc9b)
   )
 <<<<<<< HEAD
+<<<<<<< HEAD
   (wire (pts (xy 73.66 52.07) (xy 88.9 52.07))
     (stroke (width 0) (type default))
     (uuid b4aa567b-fe43-4d7b-b12a-c6d0e549bc7c)
@@ -1221,6 +1214,9 @@
     (uuid b4ac8e16-050d-4cca-bd6d-fc4ccad5f92e)
   )
   (wire (pts (xy 43.18 193.04) (xy 43.18 203.2))
+=======
+  (wire (pts (xy 31.75 186.69) (xy 31.75 196.85))
+>>>>>>> parent of 688ee8c (pcb stage 1)
 =======
   (wire (pts (xy 31.75 186.69) (xy 31.75 196.85))
 >>>>>>> parent of 688ee8c (pcb stage 1)
@@ -1239,6 +1235,7 @@
     (stroke (width 0) (type default))
     (uuid bb58ad59-fa64-4188-9d24-19f19c273f14)
   )
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -1260,6 +1257,9 @@
     (uuid c14c79d9-b516-40e2-a19c-196a84fdbb51)
   )
   (wire (pts (xy 60.96 149.86) (xy 66.04 149.86))
+=======
+  (wire (pts (xy 49.53 143.51) (xy 54.61 143.51))
+>>>>>>> parent of 688ee8c (pcb stage 1)
 =======
   (wire (pts (xy 49.53 143.51) (xy 54.61 143.51))
 >>>>>>> parent of 688ee8c (pcb stage 1)
@@ -1307,6 +1307,7 @@
     (uuid e3b08cb9-1db8-41a4-8dcc-f6344055405d)
   )
 <<<<<<< HEAD
+<<<<<<< HEAD
   (wire (pts (xy 40.64 73.66) (xy 57.15 73.66))
     (stroke (width 0) (type default))
     (uuid e3b13691-9076-45a6-a6fd-e53ca3a5d748)
@@ -1333,6 +1334,8 @@
   )
 =======
 >>>>>>> parent of 688ee8c (pcb stage 1)
+=======
+>>>>>>> parent of 688ee8c (pcb stage 1)
   (wire (pts (xy 236.22 68.58) (xy 240.03 68.58))
     (stroke (width 0) (type default))
     (uuid ecfcc8c7-649a-427f-af0d-7127fac7a396)
@@ -1347,6 +1350,7 @@
   )
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   (wire (pts (xy 49.53 41.91) (xy 49.53 36.83))
     (stroke (width 0) (type default))
     (uuid ef58ceae-c6ad-42f7-98e1-8f75c6ae5cbd)
@@ -1359,6 +1363,8 @@
   )
 =======
 >>>>>>> parent of 688ee8c (pcb stage 1)
+=======
+>>>>>>> parent of 688ee8c (pcb stage 1)
   (wire (pts (xy 236.22 88.9) (xy 240.03 88.9))
     (stroke (width 0) (type default))
     (uuid f2674596-65b3-480b-aa30-14d95b932d97)
@@ -1367,6 +1373,7 @@
     (stroke (width 0) (type default))
     (uuid f372da3e-4f19-4aac-951e-e56645a1de42)
   )
+<<<<<<< HEAD
 <<<<<<< HEAD
   (wire (pts (xy 73.66 137.16) (xy 88.9 137.16))
     (stroke (width 0) (type default))
@@ -1380,6 +1387,8 @@
     (stroke (width 0) (type default))
     (uuid f54ba1c0-df9c-447c-bcfb-d65d73407dc4)
   )
+=======
+>>>>>>> parent of 688ee8c (pcb stage 1)
 =======
 >>>>>>> parent of 688ee8c (pcb stage 1)
   (wire (pts (xy 57.15 110.49) (xy 60.96 110.49))
@@ -1417,6 +1426,7 @@
   )
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   (global_label "Col 5" (shape input) (at 123.19 26.67 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 605b6bd8-2975-410e-a19d-e725a85d06ef)
@@ -1433,6 +1443,12 @@
     (uuid 605b6bd8-2975-410e-a19d-e725a85d06ef)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 114.3 26.0435 90)
 >>>>>>> parent of c892052 (duplex trigger)
+=======
+  (global_label "Col 5" (shape input) (at 146.05 26.67 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 605b6bd8-2975-410e-a19d-e725a85d06ef)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 146.05 18.4235 90)
+>>>>>>> parent of 688ee8c (pcb stage 1)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -1494,6 +1510,7 @@
   )
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   (global_label "Col 3" (shape input) (at 97.79 34.29 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 8264cfa3-ea3a-4ed2-b393-182f7e14137b)
@@ -1510,6 +1527,12 @@
     (uuid 8264cfa3-ea3a-4ed2-b393-182f7e14137b)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 82.55 26.0435 90)
 >>>>>>> parent of c892052 (duplex trigger)
+=======
+  (global_label "Col 3" (shape input) (at 115.57 27.94 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 8264cfa3-ea3a-4ed2-b393-182f7e14137b)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 115.57 19.6935 90)
+>>>>>>> parent of 688ee8c (pcb stage 1)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -1564,6 +1587,7 @@
   )
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   (global_label "Col 4" (shape input) (at 111.76 22.86 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid ab2514af-5b6b-4953-9503-6b1ab7af0e2c)
@@ -1575,15 +1599,19 @@
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 87.63 19.6935 90)
 =======
   (global_label "Col 1" (shape input) (at 49.53 34.29 90) (fields_autoplaced)
+=======
+  (global_label "Col 1" (shape input) (at 87.63 27.94 90) (fields_autoplaced)
+>>>>>>> parent of 688ee8c (pcb stage 1)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid aadedc45-65fc-4ec5-b6e2-839e540c6b2d)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 49.53 26.0435 90)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 87.63 19.6935 90)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "Col 4" (shape input) (at 97.79 34.29 90) (fields_autoplaced)
+  (global_label "Col 4" (shape input) (at 130.81 27.94 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid ab2514af-5b6b-4953-9503-6b1ab7af0e2c)
+<<<<<<< HEAD
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 97.79 26.0435 90)
 >>>>>>> parent of c892052 (duplex trigger)
       (effects (font (size 1.27 1.27)) (justify left) hide)
@@ -1597,6 +1625,12 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
+=======
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 130.81 19.6935 90)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
+>>>>>>> parent of 688ee8c (pcb stage 1)
   (global_label "Row 2" (shape input) (at 271.78 90.17 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid afc3d2aa-352b-43b7-85d5-931bb8cea65f)
