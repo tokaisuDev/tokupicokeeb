@@ -1,4 +1,5 @@
 (kicad_pcb (version 20221018) (generator pcbnew)
+<<<<<<< HEAD
 
   (general
     (thickness 1.6)
@@ -8657,3 +8658,6 @@
   )
 
 )
+=======
+)
+>>>>>>> parent of 688ee8c (pcb stage 1)
