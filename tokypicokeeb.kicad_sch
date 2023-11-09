@@ -2059,7 +2059,7 @@
     (property "Value" "D_Small" (at 220.98 135.89 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 218.44 134.62 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 218.44 134.62 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 218.44 134.62 90)
@@ -2071,8 +2071,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 218.44 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 68bcd348-860a-4727-bc33-afc8ac705147))
-    (pin "2" (uuid 8d74aef1-0e40-4aef-a504-63c69252a504))
+    (pin "1" (uuid 59a3899b-3c5b-4188-9c35-441eec8f1244))
+    (pin "2" (uuid 3afb6e04-3496-4ef6-b141-e73be3e660f8))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -2143,7 +2143,7 @@
     (property "Value" "D_Small" (at 172.72 50.8 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 170.18 49.53 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 170.18 49.53 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 170.18 49.53 90)
@@ -2155,8 +2155,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 170.18 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 05a22946-fe26-412c-a989-409b591e74c5))
-    (pin "2" (uuid 63e4042c-2012-4f8d-b3e4-45b714a9ef97))
+    (pin "1" (uuid 382bc44e-957f-4339-b7a7-d367fd9289f5))
+    (pin "2" (uuid 56331a0b-7660-490f-83b2-0c2383070dbe))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -2175,7 +2175,7 @@
     (property "Value" "D_Small" (at 139.7 50.8 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 137.16 49.53 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 137.16 49.53 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 137.16 49.53 90)
@@ -2187,8 +2187,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 137.16 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1e4ac932-a39a-42cb-9ede-21040daaf5ed))
-    (pin "2" (uuid b4ffe847-d4da-4e71-bd25-c5adccd9d57e))
+    (pin "1" (uuid b0766480-9728-4cc3-931c-c79c3b115732))
+    (pin "2" (uuid 1ba2c6da-30a1-418f-bd9f-c19c6beedc93))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -2233,7 +2233,7 @@
     (property "Value" "D_Small" (at 220.98 50.8 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 218.44 49.53 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 218.44 49.53 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 218.44 49.53 90)
@@ -2245,8 +2245,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 218.44 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b13b2eeb-aab3-4379-88c7-517857684641))
-    (pin "2" (uuid c5f2332d-ca10-467c-902d-96615864f7ca))
+    (pin "1" (uuid 0a3c7637-209a-49a1-ac6a-a64f324d6b33))
+    (pin "2" (uuid 68fd80a3-6613-403f-9d6e-d1e569553d9e))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -2265,7 +2265,7 @@
     (property "Value" "D_Small" (at 238.76 72.39 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 236.22 71.12 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 236.22 71.12 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 236.22 71.12 90)
@@ -2277,8 +2277,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 236.22 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 72ee35a3-92dc-43e2-bcea-544268e12a4d))
-    (pin "2" (uuid f904d9a1-a755-490a-949f-83b5c130e491))
+    (pin "1" (uuid 1ba9b36c-1096-42d8-b1ee-97b51e94b49b))
+    (pin "2" (uuid 4aaadab2-b8ff-48fa-800a-5d9f2cfc0f7a))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -2297,7 +2297,7 @@
     (property "Value" "D_Small" (at 76.2 135.89 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 73.66 134.62 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 73.66 134.62 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 73.66 134.62 90)
@@ -2309,8 +2309,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 73.66 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4e0c84cb-a41a-49a4-9177-d34976848d9c))
-    (pin "2" (uuid c114358f-bb13-4b29-82cc-ec2b230b6c50))
+    (pin "1" (uuid 3d44ad42-d9dc-4412-81dd-4f1501d8491d))
+    (pin "2" (uuid c4076ec1-dc88-43a5-90a7-2ba93fcd6dee))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -2329,7 +2329,7 @@
     (property "Value" "D_Small" (at 139.7 72.39 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 137.16 71.12 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 137.16 71.12 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 137.16 71.12 90)
@@ -2341,8 +2341,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 137.16 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 65f8ff12-ad26-4fba-96fb-e6bc92d5ac94))
-    (pin "2" (uuid b1d334a7-2014-4830-8499-aabc4360ae57))
+    (pin "1" (uuid e859cae1-4096-4bff-868a-0e7fa4277aaf))
+    (pin "2" (uuid 0750ab65-edc8-4617-93c7-d13cd5c7c6b4))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -2387,7 +2387,7 @@
     (property "Value" "D_Small" (at 91.44 92.71 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 88.9 91.44 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 88.9 91.44 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 88.9 91.44 90)
@@ -2399,8 +2399,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 88.9 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 19415362-56f3-492b-935d-2778136ebc9e))
-    (pin "2" (uuid 824bfd8d-f8e5-4895-8629-36fc93346030))
+    (pin "1" (uuid 1582eb38-008e-4226-9c75-3b80a81c44e9))
+    (pin "2" (uuid fef802fb-e38d-4845-a7fe-5ba074ac7764))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -2471,7 +2471,7 @@
     (property "Value" "D_Small" (at 204.47 72.39 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 201.93 71.12 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 201.93 71.12 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 201.93 71.12 90)
@@ -2483,8 +2483,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 201.93 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f8b44cd9-3111-4e60-8601-5fe69de72e47))
-    (pin "2" (uuid 886c4d21-febc-41cc-bdd0-37090f7897b6))
+    (pin "1" (uuid b43d6fea-dadf-47f3-b289-1ce7a7985340))
+    (pin "2" (uuid d5383f0b-8639-4aad-94fc-4e1c19d7fde2))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -2581,7 +2581,7 @@
     (property "Value" "D_Small" (at 204.47 114.3 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 201.93 113.03 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 201.93 113.03 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 201.93 113.03 90)
@@ -2593,8 +2593,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 201.93 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ff34ca61-c557-4f7f-83e3-0dc720d05fb9))
-    (pin "2" (uuid 2fc75fcb-c8ef-4ee7-8b3b-8bd8f3025b06))
+    (pin "1" (uuid 2bb772d7-bafd-4b31-82db-d443ba49dfcd))
+    (pin "2" (uuid 091f9aa1-b91b-4bb9-9275-718d5d927341))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -2665,7 +2665,7 @@
     (property "Value" "D_Small" (at 59.69 72.39 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 57.15 71.12 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 57.15 71.12 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 57.15 71.12 90)
@@ -2677,8 +2677,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 57.15 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3c4c8abc-4a8b-4302-b6b7-fb95371d5be5))
-    (pin "2" (uuid 480866d0-6b84-4a75-b445-9b02558c7be2))
+    (pin "1" (uuid fa6a3c3a-0c1d-48c0-8cff-06c3a2c5fa50))
+    (pin "2" (uuid 62750a58-22f9-46e0-8adb-3e83d4460245))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -2697,7 +2697,7 @@
     (property "Value" "D_Small" (at 172.72 92.71 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 170.18 91.44 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 170.18 91.44 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 170.18 91.44 90)
@@ -2709,8 +2709,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 170.18 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5498b28d-d8ec-45fe-bfb0-2bc70c4afe55))
-    (pin "2" (uuid e7e7efb6-8f04-4b4f-b43c-c5365d544f03))
+    (pin "1" (uuid 4714df84-7632-4cbf-b7c4-56f9d6efe5e3))
+    (pin "2" (uuid 6af0b04f-725d-4456-8c33-052a1647b972))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -2729,7 +2729,7 @@
     (property "Value" "D_Small" (at 204.47 92.71 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 201.93 91.44 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 201.93 91.44 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 201.93 91.44 90)
@@ -2741,8 +2741,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 201.93 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a15e6834-82bf-447d-b8d0-e9d8d174b715))
-    (pin "2" (uuid 97848848-2605-43dd-955a-ffbe0b77e84e))
+    (pin "1" (uuid cbb6ff33-0830-4da8-973e-c2d9663986f6))
+    (pin "2" (uuid 6fcb1942-1d04-4f98-b2de-f4715b84c994))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -2761,7 +2761,7 @@
     (property "Value" "D_Small" (at 76.2 114.3 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 73.66 113.03 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 73.66 113.03 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 73.66 113.03 90)
@@ -2773,8 +2773,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 73.66 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e9ab243a-6c09-49d7-a82d-f82d9fe38fee))
-    (pin "2" (uuid 9129ea57-a17a-4e48-8fd5-9aa96aaae5e9))
+    (pin "1" (uuid 4e218369-bd0d-40c6-a842-fca9e3782362))
+    (pin "2" (uuid df6a6676-64d9-48c1-a797-9769a32c8255))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -2845,7 +2845,7 @@
     (property "Value" "D_Small" (at 43.18 114.3 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 40.64 113.03 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 40.64 113.03 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 40.64 113.03 90)
@@ -2857,8 +2857,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 40.64 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b8a53068-f262-4f77-b846-b941e60cf145))
-    (pin "2" (uuid 9a24a8da-bdff-496e-8f97-11887a0cff46))
+    (pin "1" (uuid 5ac36e22-17f9-4509-8cb8-091108963804))
+    (pin "2" (uuid 712918cd-9f07-4220-81e6-38a96f074672))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -2903,7 +2903,7 @@
     (property "Value" "D_Small" (at 107.95 72.39 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 105.41 71.12 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 105.41 71.12 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 105.41 71.12 90)
@@ -2915,8 +2915,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 105.41 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b072c02b-0aab-471f-a213-1d36a67ad2ff))
-    (pin "2" (uuid a7cce42d-9bb6-4189-bafc-ba9d782a4a4b))
+    (pin "1" (uuid f1ada3ca-65ac-4c73-b5e0-adf0ceb5499e))
+    (pin "2" (uuid 92f4c0b9-654b-4bda-88ce-694d306c8637))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -2935,7 +2935,7 @@
     (property "Value" "D_Small" (at 91.44 72.39 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 88.9 71.12 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 88.9 71.12 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 88.9 71.12 90)
@@ -2947,8 +2947,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 88.9 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1722ca1f-0b6b-4c79-ad74-6c56ba501212))
-    (pin "2" (uuid 864ccaa9-799d-44ca-a444-c91d7adba927))
+    (pin "1" (uuid f9df0c32-c07b-4b59-b8fd-ddd1c3b62605))
+    (pin "2" (uuid 8d68dd17-7b99-450d-abfa-45b72a9281de))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -3123,7 +3123,7 @@
     (property "Value" "D_Small" (at 156.21 114.3 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 153.67 113.03 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 153.67 113.03 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 153.67 113.03 90)
@@ -3135,8 +3135,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 153.67 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 66719b1f-204c-47f1-97e4-06c729855c41))
-    (pin "2" (uuid 72e324ba-8469-45f8-9b86-f028debd99e0))
+    (pin "1" (uuid 0354d617-1169-4371-8972-6aad8f08c03c))
+    (pin "2" (uuid 5ee90299-6784-46d6-94f9-4bf07018442e))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -3181,7 +3181,7 @@
     (property "Value" "D_Small" (at 26.67 72.39 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 24.13 71.12 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 24.13 71.12 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 24.13 71.12 90)
@@ -3193,8 +3193,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 24.13 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 39361b12-7dc5-48ec-9cba-cbcaea7ba2f2))
-    (pin "2" (uuid aae14e40-6719-489c-8ac6-1a2094c2bf20))
+    (pin "1" (uuid 511cb7f6-aa60-4f0d-833f-814c0a5742ef))
+    (pin "2" (uuid 4add6e3c-cc7f-473a-8caf-937615941e7b))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -3316,7 +3316,7 @@
     (property "Value" "D_Small" (at 76.2 92.71 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 73.66 91.44 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 73.66 91.44 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 73.66 91.44 90)
@@ -3328,8 +3328,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 73.66 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b4c427fa-ba85-4faa-bef7-803e38f39d1a))
-    (pin "2" (uuid bf8ed2c3-1fa6-4ce1-9eb3-7ce043a64f83))
+    (pin "1" (uuid e02ed542-bb8e-40d7-9a1e-51bd3159290a))
+    (pin "2" (uuid 8a689070-44e8-4d19-84eb-380401b57e4e))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -3348,7 +3348,7 @@
     (property "Value" "D_Small" (at 26.67 50.8 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 24.13 49.53 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 24.13 49.53 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 24.13 49.53 90)
@@ -3360,8 +3360,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 24.13 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ac071346-b6bd-487b-b049-f0d9b447340f))
-    (pin "2" (uuid 20774ef5-499e-495d-b011-046d2662e61b))
+    (pin "1" (uuid 442a95b2-ac08-45a7-b222-d1a0dcda6ed5))
+    (pin "2" (uuid f149b9f0-e56a-4f7e-ae98-c3a65a5e8e6c))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -3380,7 +3380,7 @@
     (property "Value" "D_Small" (at 204.47 135.89 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 201.93 134.62 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 201.93 134.62 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 201.93 134.62 90)
@@ -3392,8 +3392,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 201.93 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e693e2f2-1656-40b2-8ed5-c5bc13044933))
-    (pin "2" (uuid 7976199c-0cdd-4c64-baed-1e2335b268d8))
+    (pin "1" (uuid d75cc1e5-5b9a-43c0-951c-1f3180476cb4))
+    (pin "2" (uuid f9973faf-254c-451f-bb9a-925f526960b6))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -3464,7 +3464,7 @@
     (property "Value" "D_Small" (at 59.69 92.71 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 57.15 91.44 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 57.15 91.44 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 57.15 91.44 90)
@@ -3476,8 +3476,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 57.15 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2fb5c36f-cfaf-4dde-bc39-12e24f291cae))
-    (pin "2" (uuid 0bbe0691-abd0-439d-8133-379de4ad9467))
+    (pin "1" (uuid 5cf8e614-3e14-46a9-a1a3-49e776e9b70f))
+    (pin "2" (uuid 49e9c7c8-04db-437a-b34d-85143b1b3834))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -3496,7 +3496,7 @@
     (property "Value" "D_Small" (at 220.98 92.71 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 218.44 91.44 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 218.44 91.44 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 218.44 91.44 90)
@@ -3508,8 +3508,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 218.44 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 12c687df-e8ad-4489-bd27-9c195ee8b2c7))
-    (pin "2" (uuid 959e17d8-6ad6-484f-8cd1-ae2e43bced5d))
+    (pin "1" (uuid 84fe8a12-0a9f-4358-8204-eae3ddf67563))
+    (pin "2" (uuid 68e4a923-c6ae-4cf6-a8ec-26e22c0a964f))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -3580,7 +3580,7 @@
     (property "Value" "D_Small" (at 238.76 92.71 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 236.22 91.44 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 236.22 91.44 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 236.22 91.44 90)
@@ -3592,8 +3592,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 236.22 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 246246c6-ae17-449a-97f0-bc08e317ef5b))
-    (pin "2" (uuid 2a968b89-0dc5-4f82-8b13-e88fc2aeb280))
+    (pin "1" (uuid 4b0ac84b-258a-4d72-83c4-fbdcf0c31df2))
+    (pin "2" (uuid 6b868c3d-72e6-49eb-b361-b5fee7eec40c))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -3612,7 +3612,7 @@
     (property "Value" "D_Small" (at 123.19 153.67 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 120.65 152.4 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 120.65 152.4 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 120.65 152.4 90)
@@ -3624,8 +3624,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 120.65 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c25f9841-6336-4b66-a2e8-94528b9eb7c2))
-    (pin "2" (uuid 44936e7e-905f-4e90-86c2-00932a9b727a))
+    (pin "1" (uuid 6e072a37-591f-483f-a0a7-6b477b6500d1))
+    (pin "2" (uuid 4669c5da-d051-4c02-96a0-15ec6fed8b92))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -3670,7 +3670,7 @@
     (property "Value" "D_Small" (at 59.69 114.3 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 57.15 113.03 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 57.15 113.03 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 57.15 113.03 90)
@@ -3682,8 +3682,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 57.15 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7c441101-5c9d-4cee-a5f1-70ce4f1779f9))
-    (pin "2" (uuid 27d34012-3e9f-4196-9da9-40ef741bfff6))
+    (pin "1" (uuid 2bb2b933-efc5-45b6-aa8f-50b2ff2ac36a))
+    (pin "2" (uuid 25a4f5f3-724e-4798-9dd2-0ac89cd268d8))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -3702,7 +3702,7 @@
     (property "Value" "D_Small" (at 172.72 114.3 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 170.18 113.03 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 170.18 113.03 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 170.18 113.03 90)
@@ -3714,8 +3714,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 170.18 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 904790ff-89fa-472c-b4b6-03182c3611a4))
-    (pin "2" (uuid b9c6aed3-b9b8-4b2d-996d-e18005c68d1d))
+    (pin "1" (uuid f06fbf0d-c6e5-48e5-ba21-148f8236c083))
+    (pin "2" (uuid 3e5ad93a-ab22-4bb2-828c-c56fad8aaa75))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -3734,7 +3734,7 @@
     (property "Value" "D_Small" (at 189.23 92.71 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 186.69 91.44 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 186.69 91.44 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 186.69 91.44 90)
@@ -3746,8 +3746,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 186.69 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2b07df8e-73bc-4326-88a1-d71d9f8ded31))
-    (pin "2" (uuid b8cfd9f3-ebd1-4e55-ace6-820c02bf2798))
+    (pin "1" (uuid 17982881-13a1-48ac-af8c-e7c68a898bcd))
+    (pin "2" (uuid b85d2df2-5dc3-4741-86aa-92c19d753946))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -3766,7 +3766,7 @@
     (property "Value" "D_Small" (at 156.21 135.89 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 153.67 134.62 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 153.67 134.62 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 153.67 134.62 90)
@@ -3778,8 +3778,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 153.67 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a4295268-be83-4620-b578-8f80ecf4198a))
-    (pin "2" (uuid 0dc2151a-576c-4cd4-a909-d211fe4859a5))
+    (pin "1" (uuid 3aae9b63-9c24-48d3-a7bc-f026e94ff580))
+    (pin "2" (uuid 404897e5-a404-4ead-8184-7b9256a8c3fb))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -3901,7 +3901,7 @@
     (property "Value" "D_Small" (at 238.76 135.89 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 236.22 134.62 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 236.22 134.62 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 236.22 134.62 90)
@@ -3913,8 +3913,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 236.22 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 86d10232-7fd9-4c86-9259-825f106abc13))
-    (pin "2" (uuid 6f8f3718-1f26-478a-8fc7-8aa745d11484))
+    (pin "1" (uuid a05bf8f0-62b3-4ae2-8841-c76f5c42c14f))
+    (pin "2" (uuid e5015ded-5d15-4e67-aebe-d02130ec206b))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -4011,7 +4011,7 @@
     (property "Value" "D_Small" (at 156.21 72.39 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 153.67 71.12 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 153.67 71.12 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 153.67 71.12 90)
@@ -4023,8 +4023,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 153.67 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 95eb4ab1-815d-4504-b978-c2767bc6fa79))
-    (pin "2" (uuid 0571d3aa-5119-4554-8991-8ca1f2ad03f3))
+    (pin "1" (uuid 38396825-876f-43ba-bf85-aa867942b2a5))
+    (pin "2" (uuid 7efff605-f34a-4c54-8964-d79fcea9135e))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -4121,7 +4121,7 @@
     (property "Value" "D_Small" (at 107.95 92.71 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 105.41 91.44 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 105.41 91.44 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 105.41 91.44 90)
@@ -4133,8 +4133,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 105.41 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 07942a7e-17c6-46af-ade0-65129a8842a0))
-    (pin "2" (uuid 4c3ce718-69ed-45fd-83a3-4234f58bd53d))
+    (pin "1" (uuid c530c517-a618-471d-b3b7-281e2e1d78f6))
+    (pin "2" (uuid e8067708-7b11-43e2-93e7-eea9988dfdff))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -4179,7 +4179,7 @@
     (property "Value" "D_Small" (at 172.72 72.39 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 170.18 71.12 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 170.18 71.12 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 170.18 71.12 90)
@@ -4191,8 +4191,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 170.18 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8ee76953-8ed6-4e93-87c1-a1ceeacb0ff3))
-    (pin "2" (uuid f98e220b-99e1-4b0b-9e77-092c72c441dc))
+    (pin "1" (uuid a820de9c-4dd3-4f4e-b575-b5c10facd536))
+    (pin "2" (uuid 5ca73eee-91db-49ae-a863-bd8e94dbd650))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -4211,7 +4211,7 @@
     (property "Value" "D_Small" (at 26.67 114.3 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 24.13 113.03 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 24.13 113.03 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 24.13 113.03 90)
@@ -4223,8 +4223,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 24.13 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 447c6810-3aa5-4992-830b-ef5489649548))
-    (pin "2" (uuid 8b53ceba-5f89-48cc-9c1d-e8c7341d837f))
+    (pin "1" (uuid bb214f62-e0c1-41d2-9073-928cd02f16e7))
+    (pin "2" (uuid 36f73996-272c-4163-8a21-2a25fe9a39e0))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -4243,7 +4243,7 @@
     (property "Value" "D_Small" (at 91.44 50.8 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 88.9 49.53 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 88.9 49.53 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 88.9 49.53 90)
@@ -4255,8 +4255,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 88.9 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 59643b7b-eb60-4542-a112-3bf6ab477e6f))
-    (pin "2" (uuid d33f17c0-e616-4ac1-8f5f-478b1a67a247))
+    (pin "1" (uuid c0d347b5-402a-4850-9856-90fe9f869cc2))
+    (pin "2" (uuid cfa97b84-980a-4883-866d-04aae2ed9590))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -4275,7 +4275,7 @@
     (property "Value" "D_Small" (at 139.7 135.89 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 137.16 134.62 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 137.16 134.62 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 137.16 134.62 90)
@@ -4287,8 +4287,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 137.16 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b3c9ab4e-db89-4ccd-8937-8b32b4ea58d5))
-    (pin "2" (uuid ce309115-07f1-47b9-94ea-f10f41edf7b0))
+    (pin "1" (uuid f5b5d7fc-2a7b-4290-881f-f627ed276ce3))
+    (pin "2" (uuid 4ccd8b99-8fd1-4ce3-b378-a0c058f1f7f0))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -4307,7 +4307,7 @@
     (property "Value" "D_Small" (at 26.67 135.89 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 24.13 134.62 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 24.13 134.62 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 24.13 134.62 90)
@@ -4319,8 +4319,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 24.13 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 827c4589-1082-4644-a506-ad856f79b03d))
-    (pin "2" (uuid ddc84c2f-388b-4952-bbed-ec3e4b8e9042))
+    (pin "1" (uuid 0b3d757c-2744-4d3b-ac74-39b4aa9aa1d6))
+    (pin "2" (uuid 628814be-b4d1-4b8d-84f5-a0637eca5070))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -4339,7 +4339,7 @@
     (property "Value" "D_Small" (at 91.44 135.89 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 88.9 134.62 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 88.9 134.62 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 88.9 134.62 90)
@@ -4351,8 +4351,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 88.9 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f8c701df-11ca-4331-a7c4-616e61a98ecd))
-    (pin "2" (uuid f0438005-b67a-4a4a-8574-8898175b04c4))
+    (pin "1" (uuid a0c81e85-cb47-40b1-b07b-79c3a526939c))
+    (pin "2" (uuid 1e0ccac9-5f23-4755-8ae1-b1bd45fc78df))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -4371,7 +4371,7 @@
     (property "Value" "D_Small" (at 238.76 50.8 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 236.22 49.53 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 236.22 49.53 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 236.22 49.53 90)
@@ -4383,8 +4383,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 236.22 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 463587a8-585a-415a-8cb3-cae412efb1e8))
-    (pin "2" (uuid bcddbe76-92c5-4339-9326-fb3b9bffd2de))
+    (pin "1" (uuid 26641882-9d4d-4c7e-9003-185ec3020731))
+    (pin "2" (uuid 4e9a1b14-2742-496e-ac4d-94a09f027b64))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -4403,7 +4403,7 @@
     (property "Value" "D_Small" (at 107.95 135.89 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 105.41 134.62 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 105.41 134.62 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 105.41 134.62 90)
@@ -4415,8 +4415,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 105.41 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8167fe5d-d310-4129-82b2-317f99b6ca12))
-    (pin "2" (uuid 7fa0c680-0755-4fe1-b015-738da6c3887a))
+    (pin "1" (uuid d578c52d-606f-4501-9bc8-32e685759de9))
+    (pin "2" (uuid 8b857f10-eed0-4f93-915f-f1da1f978e6a))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -4487,7 +4487,7 @@
     (property "Value" "D_Small" (at 43.18 92.71 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 40.64 91.44 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 40.64 91.44 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 40.64 91.44 90)
@@ -4499,8 +4499,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 40.64 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fad273e5-f59f-49ab-b7b8-6b4ced4e4f27))
-    (pin "2" (uuid e052cd6c-ad07-4c8e-a3ea-d79609da687c))
+    (pin "1" (uuid 32a51aac-e7c3-4195-9e68-78a230b62ded))
+    (pin "2" (uuid 0c062d7e-8245-4ff4-a9d7-968910bf573f))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -4545,7 +4545,7 @@
     (property "Value" "D_Small" (at 91.44 114.3 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 88.9 113.03 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 88.9 113.03 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 88.9 113.03 90)
@@ -4557,8 +4557,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 88.9 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 79a6b551-9ddf-4730-9c2b-1e64d3f38d88))
-    (pin "2" (uuid 219c6d32-81b0-4da4-9af5-6822e8da1cfb))
+    (pin "1" (uuid 1ce0f4a2-1b48-45fb-8ea0-767b43dc32fb))
+    (pin "2" (uuid fb5125ce-228c-4514-8708-17a93d10fe70))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -4603,7 +4603,7 @@
     (property "Value" "D_Small" (at 220.98 72.39 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 218.44 71.12 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 218.44 71.12 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 218.44 71.12 90)
@@ -4615,8 +4615,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 218.44 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3c16d6d8-72c8-4037-a59d-35c0539e8633))
-    (pin "2" (uuid 97a4adcc-aab4-4ec7-8f80-f12259ffdae8))
+    (pin "1" (uuid ae19b61a-ec1f-481b-a96e-e959cd723eaa))
+    (pin "2" (uuid 8c02de26-b58f-4b89-8dd4-322ed224939b))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -4687,7 +4687,7 @@
     (property "Value" "D_Small" (at 26.67 92.71 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 24.13 91.44 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 24.13 91.44 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 24.13 91.44 90)
@@ -4699,8 +4699,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 24.13 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5926997c-95cc-49da-b0d2-6eb5c9079e8d))
-    (pin "2" (uuid bbc48141-38cf-4667-9a21-cde06a827369))
+    (pin "1" (uuid 6302967b-0256-496d-ad69-9b8d46ceb1dc))
+    (pin "2" (uuid 71e1bb45-4521-41d3-848b-9af98916f987))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -4719,7 +4719,7 @@
     (property "Value" "D_Small" (at 172.72 135.89 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 170.18 134.62 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 170.18 134.62 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 170.18 134.62 90)
@@ -4731,8 +4731,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 170.18 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ba09d8ad-b8fa-4637-bcac-db275136b812))
-    (pin "2" (uuid 3e53c198-4507-4a9b-b36a-c855010d1567))
+    (pin "1" (uuid d0eb67f7-b35e-4c81-8f5d-5ee10bf0c468))
+    (pin "2" (uuid a3120f21-892e-4f88-9e20-a53da11730e5))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -4751,7 +4751,7 @@
     (property "Value" "D_Small" (at 43.18 50.8 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 40.64 49.53 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 40.64 49.53 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 40.64 49.53 90)
@@ -4763,8 +4763,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 40.64 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bbef881e-a4e9-4db7-a1e9-0c66b333aa5b))
-    (pin "2" (uuid 0040307e-e9bb-441f-a909-41aa1f729ba6))
+    (pin "1" (uuid b8ccc65f-8f39-45cc-ad18-e9a21a71971e))
+    (pin "2" (uuid b83184bc-23c2-40d4-847f-4e648f7b6cf2))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -4783,7 +4783,7 @@
     (property "Value" "D_Small" (at 107.95 50.8 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 105.41 49.53 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 105.41 49.53 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 105.41 49.53 90)
@@ -4795,8 +4795,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 105.41 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid eaffbf99-4c58-4a34-a123-af6277c02115))
-    (pin "2" (uuid 36fbbda2-e385-4f11-b820-57a68b97511b))
+    (pin "1" (uuid 88ad5288-044e-44c8-b913-486dace4f082))
+    (pin "2" (uuid f1db4465-ea98-4819-a11b-ca62223b404f))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -4815,7 +4815,7 @@
     (property "Value" "D_Small" (at 76.2 50.8 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 73.66 49.53 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 73.66 49.53 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 73.66 49.53 90)
@@ -4827,8 +4827,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 73.66 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a787882f-5a46-4e2c-ae56-4df6e4255098))
-    (pin "2" (uuid 53ce3b96-1118-47c1-8f88-5071835e1dc3))
+    (pin "1" (uuid 5a0f9a7e-d6f0-4da2-97c0-cf681cb02add))
+    (pin "2" (uuid 8eeb60ac-452a-48fe-ab2d-b6a2abc8787c))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -4847,7 +4847,7 @@
     (property "Value" "D_Small" (at 238.76 114.3 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 236.22 113.03 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 236.22 113.03 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 236.22 113.03 90)
@@ -4859,8 +4859,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 236.22 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8ebebc3c-c70f-4cad-b2eb-35deefce4f6d))
-    (pin "2" (uuid a46e35df-6053-437e-81db-3efd892c9976))
+    (pin "1" (uuid f3c6baeb-6e55-47b3-b107-3a2da0a5383d))
+    (pin "2" (uuid 0f4ca061-e7f8-4d6a-b5a9-4e8a166a4b4a))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -4930,7 +4930,7 @@
     (property "Value" "D_Small" (at 189.23 114.3 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 186.69 113.03 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 186.69 113.03 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 186.69 113.03 90)
@@ -4942,8 +4942,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 186.69 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2ff9ed54-5518-4e48-bb08-a7620889b752))
-    (pin "2" (uuid 4076b2fa-fc80-4201-ba41-91d53408211a))
+    (pin "1" (uuid ccd22607-0a3c-41f5-a538-78021e188bd8))
+    (pin "2" (uuid 0b2a0491-f200-43b1-b074-6c07785cb8b6))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -5107,7 +5107,7 @@
     (property "Value" "D_Small" (at 107.95 114.3 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 105.41 113.03 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 105.41 113.03 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 105.41 113.03 90)
@@ -5119,8 +5119,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 105.41 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7d498f32-6b86-474c-92af-6bcac00e76b0))
-    (pin "2" (uuid cd45a9a7-c767-497a-a52d-1dc399293eae))
+    (pin "1" (uuid 2f52d7ca-2ab8-454b-8f19-082a0d9f8e19))
+    (pin "2" (uuid 590b85af-2b8e-4227-ad9a-95ab6b9d6c6b))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -5139,7 +5139,7 @@
     (property "Value" "D_Small" (at 139.7 114.3 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 137.16 113.03 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 137.16 113.03 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 137.16 113.03 90)
@@ -5151,8 +5151,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 137.16 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d68f29d1-7447-44ff-94f3-04dc1cd9d840))
-    (pin "2" (uuid efa89865-cbbb-4db4-9311-c738b04a54ec))
+    (pin "1" (uuid e5c49569-6fd5-4856-b490-a80b2b5504a6))
+    (pin "2" (uuid f6892701-9a2e-4167-b155-76ecb84826b1))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -5197,7 +5197,7 @@
     (property "Value" "D_Small" (at 59.69 50.8 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 57.15 49.53 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 57.15 49.53 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 57.15 49.53 90)
@@ -5209,8 +5209,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 57.15 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9dbe4345-f3f8-4c06-938d-dfc08dcce2b3))
-    (pin "2" (uuid ba15171a-ad02-4fdc-bcda-667aacc4a101))
+    (pin "1" (uuid 802191f9-bc7b-43ec-8003-f84ed1730f60))
+    (pin "2" (uuid 42674c94-2a54-4e2d-88f8-5be837f9f0e2))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -5229,7 +5229,7 @@
     (property "Value" "D_Small" (at 204.47 50.8 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 201.93 49.53 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 201.93 49.53 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 201.93 49.53 90)
@@ -5241,8 +5241,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 201.93 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3090d229-8191-484a-8431-4c49df4b02ab))
-    (pin "2" (uuid 695a2b83-fbd6-43d4-b55b-a90ec23cdac3))
+    (pin "1" (uuid fbf867a4-5f5f-4594-9b39-ab45f5ece7d7))
+    (pin "2" (uuid 83b81eb2-3f68-4161-973a-34b650eba77f))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -5364,7 +5364,7 @@
     (property "Value" "D_Small" (at 43.18 72.39 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 40.64 71.12 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 40.64 71.12 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 40.64 71.12 90)
@@ -5376,8 +5376,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 40.64 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c6aac668-e43f-48e9-aac0-f748c0c0946c))
-    (pin "2" (uuid 4d05f03f-615c-48ff-8b08-ca8a2bcb2548))
+    (pin "1" (uuid 07396f4a-35c0-4d6e-9c11-7eea78da2865))
+    (pin "2" (uuid f3adbf45-520c-4bf0-9e10-cfdf0f39ff97))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -5396,7 +5396,7 @@
     (property "Value" "D_Small" (at 76.2 72.39 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 73.66 71.12 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 73.66 71.12 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 73.66 71.12 90)
@@ -5408,8 +5408,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 73.66 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8bb214d4-96d5-482b-8b85-75f2bcea50dd))
-    (pin "2" (uuid 997f734e-8c7e-4199-a246-97ebe7bc9a19))
+    (pin "1" (uuid 3aa18dde-cea2-4a99-a157-c8ae7bccfa76))
+    (pin "2" (uuid e23bef16-1f55-40f2-91f3-b6a4cc098bed))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -5428,7 +5428,7 @@
     (property "Value" "D_Small" (at 156.21 50.8 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 153.67 49.53 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 153.67 49.53 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 153.67 49.53 90)
@@ -5440,8 +5440,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 153.67 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 397a217b-2279-4c04-ac3e-48fd0e0bd1c8))
-    (pin "2" (uuid 1188af63-34d2-4ca0-9df9-eaf48f1b45d1))
+    (pin "1" (uuid 63217c23-ee0a-48d0-a146-5f72ef719a25))
+    (pin "2" (uuid 0b125059-f4cb-47af-a83a-2084b99ae170))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -5564,7 +5564,7 @@
     (property "Value" "D_Small" (at 189.23 50.8 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 186.69 49.53 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 186.69 49.53 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 186.69 49.53 90)
@@ -5576,8 +5576,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 186.69 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2633d5fb-ad04-478c-9eb5-af98d070cb63))
-    (pin "2" (uuid d7bc3f16-c574-44a5-b490-ad08c70d8b61))
+    (pin "1" (uuid 7c4822ff-2059-4bca-a462-0914a950047f))
+    (pin "2" (uuid bc99551f-aede-4d57-9bda-645bbc94a1bf))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -5622,7 +5622,7 @@
     (property "Value" "D_Small" (at 139.7 92.71 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 137.16 91.44 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 137.16 91.44 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 137.16 91.44 90)
@@ -5634,8 +5634,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 137.16 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 082c933c-5181-4537-aab7-88dbcc7d0fa4))
-    (pin "2" (uuid 37821e2f-df07-484a-9b2b-b910a386be4f))
+    (pin "1" (uuid 133faa5f-5759-4dd4-b0aa-2c6e67acecb1))
+    (pin "2" (uuid 76bc6761-49de-4a83-85a9-229d8288a358))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -5654,7 +5654,7 @@
     (property "Value" "D_Small" (at 156.21 92.71 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 153.67 91.44 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 153.67 91.44 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 153.67 91.44 90)
@@ -5666,8 +5666,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 153.67 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 37d7ee8c-8a36-4924-a4ae-a872ccd1bad6))
-    (pin "2" (uuid 7ac95e26-b74a-4faf-ab5e-8191ed5e4c54))
+    (pin "1" (uuid 9e87ba60-ba24-44c1-ad2c-de10e6c2629a))
+    (pin "2" (uuid d994473a-b53e-4fa9-9011-af9b0fb464ce))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -5867,7 +5867,7 @@
     (property "Value" "D_Small" (at 220.98 114.3 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 218.44 113.03 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 218.44 113.03 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 218.44 113.03 90)
@@ -5879,8 +5879,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 218.44 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e6e6f35c-de00-4981-b4e7-1b79b012b8c5))
-    (pin "2" (uuid 961e08b9-a858-4ad0-aaee-737c1d1f5d8d))
+    (pin "1" (uuid 4b851379-796d-4229-b24a-7c7ee870ea37))
+    (pin "2" (uuid 5dc9402f-1fb0-49bf-b060-f952e71c7215))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
@@ -5899,7 +5899,7 @@
     (property "Value" "D_Small" (at 189.23 72.39 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "ScottoKeebs_Components:Diode_DO-35" (at 186.69 71.12 90)
+    (property "Footprint" "random-keyboard-parts:D_SOD-123-Pretty" (at 186.69 71.12 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 186.69 71.12 90)
@@ -5911,8 +5911,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 186.69 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3d02d506-6b5a-4c14-a22c-a55033619c6d))
-    (pin "2" (uuid 37c2c7bd-fe95-40a5-9e2b-0e260d31324e))
+    (pin "1" (uuid e28118d6-e83b-41aa-b471-4a5334d59524))
+    (pin "2" (uuid 70c50333-18d3-41b1-b932-d78c6dc46c57))
     (instances
       (project "tokypicokeeb"
         (path "/85dbf652-d5c9-4404-921e-f7703e727139"
