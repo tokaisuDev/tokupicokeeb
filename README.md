@@ -5,3 +5,5 @@ This is a Raspberry Pi Pico W-powered keyboard based on Stenokeyboard's Polyglot
 Well, this is in the *beta* testing version so hopefully I can hear you guys' opinions on this, because this is my first time designing a PCB for a keyboard. Mistakes can be made...
 
 Thanks for reading! And looking at this markdown file, I guess.
+
+P/s: More info will be added later, I'm lazy
